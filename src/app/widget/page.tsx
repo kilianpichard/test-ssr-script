@@ -7,7 +7,7 @@ import Link from "next/link";
 export default function WidgetPage() {
   return (
     <div>
-      <h1>Widget Page</h1>
+      <h1>Widget Page !</h1>
       <Link href="/">Aller a la home !</Link>
       <div
         className="publidata-widget-container widget-id-a8VOMtXxY5"
