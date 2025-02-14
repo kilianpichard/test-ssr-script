@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <h1>Home</h1>
-      <Link href="/widget">Aller au widget</Link>
+      <Link href="/widget">Aller au widget !</Link>
     </div>
   );
 }
