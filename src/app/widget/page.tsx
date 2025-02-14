@@ -8,7 +8,7 @@ export default function WidgetPage() {
   return (
     <div>
       <h1>Widget Page</h1>
-      <Link href="/">Aller a la home</Link>
+      <Link href="/">Aller a la home !</Link>
       <div
         className="publidata-widget-container widget-id-a8VOMtXxY5"
         data-containerid="1737984352883"
